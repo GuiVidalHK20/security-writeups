@@ -1,4 +1,4 @@
-# 🛡️ Security Writeups & Journey
+# 🛡️ Security Writeups & Jornada
 
 Repositório onde documento minha trilha de aprendizado em cibersegurança: labs do TryHackMe, desafios do picoCTF, experimentos no meu home lab e certificações concluídas.
 

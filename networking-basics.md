@@ -32,7 +32,7 @@ Flag: `THM{***censurado***}`
 
 ## 💡​ O que aprendi
 
-Antes dessa sala eu confundia switch com router com frequência. Ficou claro na prática que a diferença central é **em qual camada do modelo OSI cada um decide para onde mandar o pacote** — switch decide por MAC (camada 2), router decide por IP (camada 3). Isso vai ser importante quando eu começar a analisar tráfego de rede com Wireshark mais pra frente.
+Ficou claro na prática que a diferença central é **em qual camada do modelo OSI cada um decide para onde mandar o pacote** — switch decide por MAC (camada 2), router decide por IP (camada 3). 
 
 ## 📎 Referências
 

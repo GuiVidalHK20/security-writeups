@@ -29,4 +29,4 @@ Estou construindo minha base em segurança da informação, focando inicialmente
 
 ## 📫 Contato
 
-LinkedIn: *(seu link aqui)*
+LinkedIn: https://www.linkedin.com/in/guilherme-vidal-361684329
